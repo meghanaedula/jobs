@@ -1,0 +1,6 @@
+{
+  "name": "NexPlacement - AI College Placement Management System",
+  "description": "Production-grade, centralized college placement management platform with AI resume ATS screening, eligibility engine, interview preparation, multi-round drive tracking, and TPO analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
